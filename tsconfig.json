@@ -1,0 +1,1 @@
+{ "compilerOptions": { "target": "ES2020", "lib": ["dom", "esnext"], "jsx": "preserve", "strict": true, "moduleResolution": "bundler", "module": "ESNext", "noEmit": true }, "include": ["app", "next-env.d.ts"] }
