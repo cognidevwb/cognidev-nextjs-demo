@@ -13,3 +13,4 @@ export default async function Home() {
     </main>
   );
 }
+// suppressHydrationWarning candidate
